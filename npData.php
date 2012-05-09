@@ -8,7 +8,6 @@
  *
  * @author Nick Hedberg
 /*******************************************************/
-require_once('config.php');
 class nikeData{
     //public variables Might consider converting to class constants
 
